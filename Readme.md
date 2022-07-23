@@ -1,0 +1,1 @@
+Olá este é um projecto experimental de utilização do git! 
